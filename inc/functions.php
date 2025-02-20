@@ -5,7 +5,7 @@ $tgl = date('Y-m-d H:i:s');
 
 //Koneksi database
 $HOSTNAME = "localhost";
-$DATABASE = "db_apk2_bankmini";
+$DATABASE = "db_apk_bankmini";
 $USERNAME = "root";
 $PASSWORD = "";
 
